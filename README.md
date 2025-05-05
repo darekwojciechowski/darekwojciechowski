@@ -3,7 +3,10 @@
 Hi, I'm Darek. With a degree in Automation and Robotics, I'm passionate about leveraging Python & Data Science to solve complex problems.
 
 - 🤖 I recently developed a Python tool to automatically process XTB broker statements and visualize the financial data using Streamlit, chack it [here](https://github.com/darekwojciechowski/Streamlit-Dividend-Dashboard)
-- ⚙️ Continuously expanding my skillset in Data Science
+- ⚙️ **Continuously expanding expertise in**:  
+  - **Python Automation**: Scripting, workflow optimization.
+  - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, and interactive dashboards (Streamlit, Plotly).  
+  - **AI-Integrated Workflows**: Leveraging ChatGPT, GitHub Copilot, Gemini, models accessed via LM Studio/Ollama.
 <!--
 **darekwojciechowski/darekwojciechowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
